@@ -151,4 +151,3 @@ While it’s possible to run Python without extra tools, we saw how `uv` simplif
 [^5]: **Dependencies locking**: A process that captures exact versions of project dependencies, ensuring consistency across different environments and preventing version conflicts.
 
 [^6]: **Python Standard Library**: A collection of built-in modules and packages that come with Python, providing tools for common tasks like file handling, math operations, and network communication without needing external libraries.
-
