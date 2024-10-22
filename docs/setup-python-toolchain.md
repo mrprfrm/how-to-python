@@ -130,7 +130,15 @@ While it’s possible to run Python without extra tools, we saw how `uv` simplif
 
 `uv` acts as both a project manager and a Python version manager, making it a convenient choice for handling everything in one tool. It follows common practices like virtual environments and dependency management, but it’s designed to be easy to use.
 
-## Footnotes
+## References
+
+1. [Homebrew (brew.sh)](https://brew.sh/)
+2. [uv (astral.sh)](https://docs.astral.sh/uv/)
+3. [Package management (ubuntu.com)](https://ubuntu.com/server/docs/package-management)
+4. [git (git-scm.com)](https://git-scm.com/)
+5. [poetry (python-poetry.org)](https://python-poetry.org/docs/)
+6. [pyenv (github.com)](https://github.com/pyenv/pyenv)
+7. [The Python Standard Library (python.org)](https://docs.python.org/3/library/index.html)
 
 [^1]: **Package Manager**: A tool that automates the installation, upgrading, configuration, and removal of software programs in a consistent manner.
 
@@ -144,12 +152,3 @@ While it’s possible to run Python without extra tools, we saw how `uv` simplif
 
 [^6]: **Python Standard Library**: A collection of built-in modules and packages that come with Python, providing tools for common tasks like file handling, math operations, and network communication without needing external libraries.
 
-## References
-
-1. [Homebrew (brew.sh)](https://brew.sh/)
-2. [uv (astral.sh)](https://docs.astral.sh/uv/)
-3. [Package management (ubuntu.com)](https://ubuntu.com/server/docs/package-management)
-4. [git (git-scm.com)](https://git-scm.com/)
-5. [poetry (python-poetry.org)](https://python-poetry.org/docs/)
-6. [pyenv (github.com)](https://github.com/pyenv/pyenv)
-7. [The Python Standard Library (python.org)](https://docs.python.org/3/library/index.html)
